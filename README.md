@@ -1,7 +1,7 @@
 # April252024Workshop
 
 ## Instructions to students
-* Download the File [Analysis notebook](./Workshop_PopulationAndGDPTrends.ipynb) to you local machine. To download, please go to the link shown here and click on "Download raw file" seen on the top right corner of the window.
+* Download the File [Analysis notebook](./Workshop_PopulationAndGDPTrends.ipynb) to you local machine. To download, please go to the link shown here and click on the Download symbol that is seen on the top right corner of the window. If you hover over the Download symbol, you should see the text "Download raw file".
 * *Important: Sign in to your GMAIL account and upload the notebook to your Online Drive that is part of your GMAIL account.*
   * If you do not have a GMAIL account, please create one for this course.  
   * Along with the email account, you also get access to developer tools such as Google Colab and OneDrive to store data.
