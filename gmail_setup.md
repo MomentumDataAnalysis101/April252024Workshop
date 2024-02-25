@@ -4,7 +4,7 @@
 * Sign up for a new email. 
 * After signing up, login in to your gmail account.
 * In your browser, open a new tab and type the [link](https://colab.research.google.com)
-    * You should see a screen that say "Welcome to Colaboratory". 
+    * You should see a screen that says "Welcome to Colaboratory". 
     * Also, a window called "Open notebook" should appear.
 * On the left panel of the "Open notebook" window, select "Upload". 
     * Follow the instructions and upload your Notebook that you downloaded from the classroom.
@@ -20,7 +20,7 @@
         * Examples are: 
             * Under "Working with Different Programming Languages" see "Restart Kernel" and "Interrupt Kernel"
             * Under "Executing Cells", see "Run selected cell(s)"
-        * Please try to run the cells in the notebook to make sure that the set up is successful.
+        * Ahead of the workshop, please try to run the cells in the notebook to make sure that the set up is successful.
         * If any questions, please reach out to <aifeatures2000@gmail.com>.
 
 
