@@ -16,10 +16,10 @@
         * The notebook contains many "cells". Each cell is either used to write documentation or to write code. To test, we will run a cell that contains code. 
         * To do this, Run the cell below the text "import packages". (We can test this in the class)
     * To learn how to run the notebooks, here is a cheat sheet [Notebooks](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf). 
-        * Learn the most commonly used commands. 
+        * Learn the most commonly used commands from this cheat sheet. 
         * Examples are: 
-            * Under "Working with Different Programming Languages" see "Restart Kernel", "Interrupt Kernel"
-            * Under "Executing Cells", see "Run selected cell(s)
+            * Under "Working with Different Programming Languages" see "Restart Kernel" and "Interrupt Kernel"
+            * Under "Executing Cells", see "Run selected cell(s)"
         * Please try to run the cells in the notebook to make sure that set up is done.
         * If any questions, please reach out to <aifeatures2000@gmail.com>.
 
