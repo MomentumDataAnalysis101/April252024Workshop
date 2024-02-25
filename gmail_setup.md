@@ -20,7 +20,7 @@
         * Examples are: 
             * Under "Working with Different Programming Languages" see "Restart Kernel" and "Interrupt Kernel"
             * Under "Executing Cells", see "Run selected cell(s)"
-        * Please try to run the cells in the notebook to make sure that set up is done.
+        * Please try to run the cells in the notebook to make sure that the set up is successful.
         * If any questions, please reach out to <aifeatures2000@gmail.com>.
 
 
