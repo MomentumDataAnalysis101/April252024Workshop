@@ -1,6 +1,6 @@
 # The method to set up Google Colab is provided here
 * Search gmail in your browser and go to the home page for emails. 
-* Then you will see this page on the page ![gmail opening page](./image/gmail_opening_page.jpg)
+* Then you will see this image on the page ![gmail opening page](./image/gmail_opening_page.jpg)
 * Sign up for a new email. 
 * After signing up, login in to your gmail account.
 * In your browser, open a new tab and type the [link](https://colab.research.google.com)
