@@ -4,7 +4,7 @@
 
 **This course introduces you to "data driven problem solving concepts".**
 - We assume students are interested to get into data analysis and have little to no coding language.
-- Students are encouraged to focus on the concepts.
+- During the workshop, students are encouraged to focus on the concepts.
  - Due to time constraints, we are unable to teach coding.
  - A Python notebook (code cookbook) will be provided to demonstrate how data can be read, cleaned and processed to answer the problem.
  - The concepts that you learn can be used in analyzing data using any tool of your choice.
