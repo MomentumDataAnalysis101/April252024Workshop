@@ -3,7 +3,7 @@
 ## About the Workshop
 
 **This course introduces you to "data driven problem solving concepts".**
-- Our goal is to provide students an appreciation for data analysis and assume that students have little to no coding language.
+- Our goal is to provide students an appreciation for data analysis and we assume that students have little to no coding language.
 - During the workshop, students are encouraged to focus on the concepts.
 - Due to time constraints, we are unable to teach coding.
 - There will be two workshops, one on **data** and the second focused on **analysis**:
