@@ -9,7 +9,7 @@
  - There will be two workshops one on data and the second focused on analysis:
   - For the data workshop preparation, you will need to download data and a set of files. Please see the [instructions](./Data/README.md)
   - For the analysis workshop, a Python notebook (code cookbook) will be provided to demonstrate how data can be read, cleaned and processed to answer the problem.
-   - Please follow the [instructions](## Instructions for students to prepare for the Workshop) 
+   - Please follow the [instructions](#instructions) 
  - The concepts that you learn can be used in analyzing data using any tool of your choice.
 
 
