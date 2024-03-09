@@ -17,7 +17,7 @@
 * Download the File [Analysis notebook](./test_notebook.ipynb) to you local machine. This file contains a set of test code that you will upload to Google Colab and test.
     * To download the file, please click on the Download symbol that is seen on the top right corner of the window.
     
-    * The Download symbol is highlighted in this ![image](./image/download_symbol.png). If you hover over the Download symbol, you should see the text "Download raw file".
+    * The Download symbol is highlighted in yellow as shown in this image ![image](./image/download_symbol.png). If you hover over the Download symbol, you should see the text "Download raw file".
 * *Important: Sign in to your GMAIL account and upload the notebook to your Online Drive that is part of your GMAIL account.*
   * If you do not have a GMAIL account, please create one for this course.  
   * Along with the free email account, you also get access to developer tools such as Google Colab and OneDrive to store data. This will make it easier to start running code.
