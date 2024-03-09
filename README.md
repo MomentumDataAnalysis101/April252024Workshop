@@ -8,12 +8,12 @@
 - Due to time constraints, we are unable to teach coding.
 - There will be two workshops, one on data and the second focused on analysis:
     - For the data workshop preparation, you will need to download data and a set of files. Please see the [instructions](./Data/README.md)
-    - For the analysis workshop, you will need to set up a Colab account. Please follow the [instructions](#instructions-for-students-to-prepare-forthe-workshop)
+    - For the analysis workshop, you will need to set up a Colab account. Please follow the [instructions](#instructions-for-students-to-prepare-for-the-workshop)
         - During the class, a Python notebook (code cookbook) will be provided to demonstrate how data can be read, cleaned and processed to answer the problem.
 - The concepts that you learn can be used in analyzing data using any tool of your choice.
 
 
-## Instructions for students to prepare for the Workshop
+## Instructions for students to prepare for the analysis Workshop
 * Download the File [Analysis notebook](./test_notebook.ipynb) to you local machine. To download, please go to the link shown here and click on the Download symbol that is seen on the top right corner of the window. If you hover over the Download symbol, you should see the text "Download raw file".
 * *Important: Sign in to your GMAIL account and upload the notebook to your Online Drive that is part of your GMAIL account.*
   * If you do not have a GMAIL account, please create one for this course.  
