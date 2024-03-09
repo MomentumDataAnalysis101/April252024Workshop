@@ -14,7 +14,7 @@
 
 
 ## Instructions for students to prepare for the analysis Workshop
-* Download the File [Analysis notebook](./test_notebook.ipynb) to you local machine. This file contains a set of test code to upload to Google Colab. To download the file, please go to the link shown here and click on the Download symbol that is seen on the top right corner of the window. If you hover over the Download symbol, you should see the text "Download raw file".
+* Download the File [Analysis notebook](./test_notebook.ipynb) to you local machine. This file contains a set of test code that you will upload to Google Colab and test. To download the file, please click on the Download symbol that is seen on the top right corner of the window. If you hover over the Download symbol, you should see the text "Download raw file".
 * *Important: Sign in to your GMAIL account and upload the notebook to your Online Drive that is part of your GMAIL account.*
   * If you do not have a GMAIL account, please create one for this course.  
   * Along with the free email account, you also get access to developer tools such as Google Colab and OneDrive to store data. This will make it easier to start running code.
