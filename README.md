@@ -10,7 +10,7 @@
     - For the data workshop preparation, you will need to download data and a set of files. Please see the [instructions](./Data/README.md) by clicking on this link.
     - For the analysis workshop, you will need to set up a Colab account. Please see the section below titled **Instructions for students to prepare for the analysis Workshop**.
         - During the class, a Python notebook (code cookbook) will be provided to demonstrate how data can be read, cleaned and processed to answer the problem.
-        - For the class, please copy the notebooks and data that are contained in the folder [Analysis](./Analytics) by clicking this link.
+        - For the class, please copy the notebooks and data that are contained in the folder [Analytics](./Analytics) by clicking this link.
 - The concepts that you learn can be used in analyzing data using any tool of your choice.
 
 
