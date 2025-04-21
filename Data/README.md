@@ -1,4 +1,4 @@
-# April 25 2024 Workshop - Data lab
+# Data and Analysis Workshop - Data lab
 
 This folder contains the lab instructions and scripts required to create a sample database.
 
