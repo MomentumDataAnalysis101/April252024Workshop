@@ -1,4 +1,4 @@
-# April 25 2024 Workshop
+# Data and Analysis Workshop
 
 ## About the Workshop
 
@@ -6,10 +6,10 @@
 - Our goal is to provide students an appreciation for data analysis and we assume that students have little to no coding language.
 - During the workshop, students are encouraged to focus on the concepts.
 - Due to time constraints, we are unable to teach coding.
-- There will be two workshops, one on **data** and the second focused on **analysis**:
-    - For the data workshop preparation, you will need to download data and a set of files. Please see the [instructions](./Data/README.md) by clicking on this link.
+- There will be a workshop focused on **analysis**:
     - For the analysis workshop, you will need to set up a Colab account. Please see the section below titled **Instructions for students to prepare for the analysis Workshop**.
-        - During the class, a Python notebook (code cookbook) will be provided to demonstrate how data can be read, cleaned and processed to answer the problem.
+    - During the class, a Python notebook (code cookbook) will be provided to demonstrate how data can be read, cleaned and processed to answer the problem.
+    - If you are interested in additional knowledge on databases, you will need to download data and a set of files. Please see the [instructions](./Data/README.md) by clicking on this link.
 - The concepts that you learn can be used in analyzing data using any tool of your choice.
 
 
